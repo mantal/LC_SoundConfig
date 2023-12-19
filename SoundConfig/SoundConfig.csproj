@@ -6,7 +6,6 @@
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
         <LangVersion>latest</LangVersion>
         <PackageId>SoundConfig</PackageId>
-        <RootNamespace>LessThanLethal</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
