@@ -1,6 +1,6 @@
 # Configuring with R2ModMan
 
-- install the mod
+- install the mod (make sure it's enabled!)
 - launch the game
 - close the game
 - Go the "Config editor" tab on the left
